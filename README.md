@@ -18,7 +18,7 @@
 > ### :busts_in_silhouette: [Contribute](#octocat-contribute)
 
 
-
+<div>
 
 
 ## :mixed-martial-artist: Mixed Martial Artist
@@ -39,7 +39,7 @@
 
 
 ***
-
+</div>
 
 ## :clipboard: Next steps
 
