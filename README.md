@@ -44,7 +44,7 @@
 
 ## :clipboard: Next steps
 
-<div dir="rtl">
+<div dir="ltr">
 
 
 - [X] ~~Create Index~~
