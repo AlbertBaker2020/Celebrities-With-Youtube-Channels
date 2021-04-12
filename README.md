@@ -1,5 +1,5 @@
 
-<div dir="ltr">
+
 
 # 🎬: Celebrities With Youtube Channels   
 
@@ -12,13 +12,12 @@
 
 
 
-<div dir="rtl">
 
 
 
 > ### :busts_in_silhouette: [Contribute](#octocat-contribute)
 
-</div>
+
 
 
 
@@ -44,13 +43,12 @@
 
 ## :clipboard: Next steps
 
-<div dir="ltr">
+
 
 
 - [X] ~~Create Index~~
 - [X] Sorted By Alphabet
 
-</div>
 
 ## :octocat: contribute
 
