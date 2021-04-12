@@ -34,11 +34,20 @@
 | Occupation | Name | YouTube Channel | 
  --- | --- | ---
 | `American pornographic actress` | Alexis Texas | [Private Talk](https://www.youtube.com/channel/UCzO506j6nnb9VzWtChVyYWQ) |
-
+| `American pornographic actcor` | Johnny Sins | [SinsTV](https://www.youtube.com/channel/UCRAWGR5ySuIDNrotce8pI3w) |
 
 
 ***
 
+## 👩‍: Actor/Actress
+
+| Occupation | Name | YouTube Channel | 
+ --- | --- | ---
+| `American actress` | Mayim Bialik | [Mayim Bialik](https://www.youtube.com/channel/UCTOocPnDh2YQZZwh86K2OxA) |
+
+
+
+***
 
 ## :clipboard: Next steps
 
