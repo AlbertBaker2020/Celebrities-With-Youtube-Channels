@@ -20,7 +20,7 @@
 
 
 
-
+## :performing_arts: سینما و عکاسی
 ## :mixed-martial-artist: Mixed Martial Artist
 
 | Occupation | Name | YouTube Channel | 
