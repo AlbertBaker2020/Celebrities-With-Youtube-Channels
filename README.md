@@ -20,8 +20,7 @@
 
 
 
-## :performing_arts: سینما و عکاسی
-## :mixed-martial-artist: Mixed Martial Artist
+## 🤼: Mixed Martial Artist
 
 | Occupation | Name | YouTube Channel | 
  --- | --- | ---
@@ -30,7 +29,7 @@
 
 ***
 
-## :pornographic-actors: Pornographic Actor/Actress
+## 👩‍: Pornographic Actor/Actress
 
 | Occupation | Name | YouTube Channel | 
  --- | --- | ---
