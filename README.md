@@ -33,7 +33,7 @@
 
 | Occupation | Name | YouTube Channel | 
  --- | --- | ---
-| `American pornographic actress` | Alexis Texas | [Private Talk](https://www.youtube.com/channel/UCzO506j6nnb9VzWtChVyYWQ) |
+| `American pornographic actress` | Alexis Texas | [Private Talk With Alexis Texas](https://www.youtube.com/channel/UCzO506j6nnb9VzWtChVyYWQ) |
 | `American pornographic actcor` | Johnny Sins | [SinsTV](https://www.youtube.com/channel/UCRAWGR5ySuIDNrotce8pI3w) |
 
 
